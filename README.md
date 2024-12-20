@@ -5,3 +5,18 @@ Zingen - Karaokê
 ![392188135-26283025-abf8-4f03-b77f-412cea1f4445](https://github.com/user-attachments/assets/6b675714-efe3-4445-9e1e-01672f17cf5c)
 ![392188149-fdd8e731-afad-41ee-81b7-62087c67f0be](https://github.com/user-attachments/assets/09c65d5d-2c6a-4f9b-8e2f-2a21199cf8cb)
 ![392188271-f803f235-6161-4b87-b66c-722b942da510](https://github.com/user-attachments/assets/e92b0014-4398-4487-be57-eede745ba500)
+
+🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+HTML e CSS
+Git e Github
+Figma
+💻 Projeto
+Zingen Karaokê e um aplicativo de musica pra usuarios escutar usuas musicas
+
+🔖 Layout
+Você pode visualizar o layout do projeto através (https://www.figma.com/design/wCawWTXUCLdmB8QCWGIZIX/LP-de-produto-(Community)?m=auto&is-community-duplicate=1&fuid=1445020561682441813) É necessário ter conta no Figma para acessá-lo.
+
+📝 Licença
+Esse projeto está sob a licença MIT.
